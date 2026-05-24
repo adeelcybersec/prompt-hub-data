@@ -1,1 +1,33 @@
-
+{
+  "currentVersion": "1.0.0",
+  "dataVersion": 1,
+  "minAppVersion": "1.0.0",
+  "lastUpdated": "2026-05-24",
+  "releaseNotes": "Initial release — 850 curated prompts across 10 categories.",
+  "promptsChecksum": null,
+  "promptsUrl": "https://raw.githubusercontent.com/adeelcybersec/prompt-hub-data/main/prompts.json",
+  "categoriesUrl": "https://raw.githubusercontent.com/adeelcybersec/prompt-hub-data/main/categories.json",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "dataVersion": 1,
+      "date": "2026-05-24",
+      "type": "major",
+      "changes": [
+        "Initial release with 850 high-quality curated prompts",
+        "10 categories, 62 subcategories",
+        "Pakistani context prompts — Urdu, Roman Urdu, Daraz, O/A Level"
+      ]
+    }
+  ],
+  "stats": {
+    "totalPrompts": 850,
+    "totalCategories": 10,
+    "totalSubcategories": 62,
+    "languages": ["English", "Urdu", "Roman Urdu"],
+    "supportedTools": [
+      "ChatGPT", "Claude", "Gemini", "Grok",
+      "Midjourney", "Leonardo AI", "Veo", "Sora", "Pika", "Runway"
+    ]
+  }
+}
