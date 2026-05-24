@@ -1,1 +1,166 @@
+[
+  {
+    "id": "cat_students",
+    "name": "Students",
+    "nameUrdu": "طلباء",
+    "icon": "school",
+    "color": "#4F46E5",
+    "description": "Academic tools for assignments, research, essays, and exam prep",
+    "subcategories": [
+      { "id": "sub_assignments", "name": "Assignments", "icon": "assignment" },
+      { "id": "sub_research", "name": "Research", "icon": "search" },
+      { "id": "sub_summaries", "name": "Summaries", "icon": "summarize" },
+      { "id": "sub_presentations", "name": "Presentations", "icon": "slideshow" },
+      { "id": "sub_exam_prep", "name": "Exam Preparation", "icon": "quiz" },
+      { "id": "sub_academic_writing", "name": "Academic Writing", "icon": "edit_note" },
+      { "id": "sub_thesis", "name": "Thesis & Dissertation", "icon": "auto_stories" }
+    ]
+  },
+  {
+    "id": "cat_freelancers",
+    "name": "Freelancers",
+    "nameUrdu": "فری لانسرز",
+    "icon": "work",
+    "color": "#059669",
+    "description": "Fiverr, Upwork, client communication, proposals, and productivity",
+    "subcategories": [
+      { "id": "sub_fiverr", "name": "Fiverr Gigs", "icon": "storefront" },
+      { "id": "sub_upwork", "name": "Upwork Proposals", "icon": "description" },
+      { "id": "sub_client_comm", "name": "Client Communication", "icon": "forum" },
+      { "id": "sub_portfolio", "name": "Portfolio Writing", "icon": "badge" },
+      { "id": "sub_pricing", "name": "Pricing & Negotiation", "icon": "price_check" },
+      { "id": "sub_invoicing", "name": "Invoicing & Contracts", "icon": "receipt_long" }
+    ]
+  },
+  {
+    "id": "cat_content_creators",
+    "name": "Content Creators",
+    "nameUrdu": "کنٹینٹ کریٹرز",
+    "icon": "movie_creation",
+    "color": "#DC2626",
+    "description": "TikTok hooks, YouTube scripts, Instagram captions, viral ideas",
+    "subcategories": [
+      { "id": "sub_tiktok", "name": "TikTok", "icon": "music_video" },
+      { "id": "sub_youtube", "name": "YouTube", "icon": "smart_display" },
+      { "id": "sub_instagram", "name": "Instagram", "icon": "photo_camera" },
+      { "id": "sub_viral_ideas", "name": "Viral Ideas", "icon": "trending_up" },
+      { "id": "sub_video_seo", "name": "Video SEO", "icon": "manage_search" },
+      { "id": "sub_hashtags", "name": "Hashtags", "icon": "tag" },
+      { "id": "sub_content_calendar", "name": "Content Calendar", "icon": "calendar_month" }
+    ]
+  },
+  {
+    "id": "cat_seo_marketing",
+    "name": "SEO & Marketing",
+    "nameUrdu": "ایس ای او اور مارکیٹنگ",
+    "icon": "bar_chart",
+    "color": "#D97706",
+    "description": "Blog SEO, keywords, ad copy, email marketing, landing pages",
+    "subcategories": [
+      { "id": "sub_blog_seo", "name": "Blog SEO", "icon": "article" },
+      { "id": "sub_keywords", "name": "Keyword Research", "icon": "key" },
+      { "id": "sub_ad_copy", "name": "Ad Copy", "icon": "campaign" },
+      { "id": "sub_product_desc", "name": "Product Descriptions", "icon": "inventory_2" },
+      { "id": "sub_email_marketing", "name": "Email Marketing", "icon": "email" },
+      { "id": "sub_landing_pages", "name": "Landing Pages", "icon": "web" }
+    ]
+  },
+  {
+    "id": "cat_coding",
+    "name": "Coding & Developers",
+    "nameUrdu": "کوڈنگ",
+    "icon": "code",
+    "color": "#7C3AED",
+    "description": "Flutter, debugging, code review, UI/API generation, SQL",
+    "subcategories": [
+      { "id": "sub_flutter", "name": "Flutter", "icon": "phone_android" },
+      { "id": "sub_debugging", "name": "Debugging", "icon": "bug_report" },
+      { "id": "sub_code_review", "name": "Code Review", "icon": "rate_review" },
+      { "id": "sub_ui_gen", "name": "UI Generation", "icon": "design_services" },
+      { "id": "sub_api", "name": "API & Backend", "icon": "api" },
+      { "id": "sub_sql", "name": "SQL & Databases", "icon": "storage" },
+      { "id": "sub_security_code", "name": "Security", "icon": "security" }
+    ]
+  },
+  {
+    "id": "cat_ai_image",
+    "name": "AI Image Generation",
+    "nameUrdu": "اے آئی امیج",
+    "icon": "image",
+    "color": "#DB2777",
+    "description": "Midjourney, Leonardo AI, cinematic, anime, portrait, logo prompts",
+    "subcategories": [
+      { "id": "sub_midjourney", "name": "Midjourney", "icon": "brush" },
+      { "id": "sub_leonardo", "name": "Leonardo AI", "icon": "palette" },
+      { "id": "sub_cinematic_img", "name": "Cinematic", "icon": "movie" },
+      { "id": "sub_anime", "name": "Anime & Illustration", "icon": "auto_awesome" },
+      { "id": "sub_portrait", "name": "Portrait & People", "icon": "face" },
+      { "id": "sub_logo", "name": "Logo & Brand", "icon": "logo_dev" },
+      { "id": "sub_product_img", "name": "Product Photography", "icon": "camera_alt" }
+    ]
+  },
+  {
+    "id": "cat_ai_video",
+    "name": "AI Video Generation",
+    "nameUrdu": "اے آئی ویڈیو",
+    "icon": "videocam",
+    "color": "#EA580C",
+    "description": "Cinematic AI videos, TikTok, Veo/Sora prompts, storytelling",
+    "subcategories": [
+      { "id": "sub_cinematic_vid", "name": "Cinematic Video", "icon": "theaters" },
+      { "id": "sub_tiktok_vid", "name": "TikTok AI Videos", "icon": "reel" },
+      { "id": "sub_veo_sora", "name": "Veo / Sora", "icon": "smart_screen" },
+      { "id": "sub_shortform", "name": "Short-form Content", "icon": "video_library" },
+      { "id": "sub_transitions", "name": "Transitions & Effects", "icon": "animation" },
+      { "id": "sub_storytelling_vid", "name": "Video Storytelling", "icon": "auto_stories" }
+    ]
+  },
+  {
+    "id": "cat_business",
+    "name": "Business & Productivity",
+    "nameUrdu": "بزنس",
+    "icon": "business_center",
+    "color": "#0284C7",
+    "description": "Startup ideas, business plans, automation, sales, market research",
+    "subcategories": [
+      { "id": "sub_startup", "name": "Startup Ideas", "icon": "rocket_launch" },
+      { "id": "sub_bizplan", "name": "Business Plans", "icon": "schema" },
+      { "id": "sub_market_research", "name": "Market Research", "icon": "analytics" },
+      { "id": "sub_automation", "name": "Automation Workflows", "icon": "autorenew" },
+      { "id": "sub_sales", "name": "Sales & Pitching", "icon": "handshake" },
+      { "id": "sub_productivity", "name": "Productivity", "icon": "task_alt" }
+    ]
+  },
+  {
+    "id": "cat_social_growth",
+    "name": "Social Media Growth",
+    "nameUrdu": "سوشل میڈیا گروتھ",
+    "icon": "trending_up",
+    "color": "#0891B2",
+    "description": "TikTok, Instagram, YouTube SEO, Facebook engagement, viral hooks",
+    "subcategories": [
+      { "id": "sub_tiktok_growth", "name": "TikTok Growth", "icon": "music_note" },
+      { "id": "sub_ig_seo", "name": "Instagram SEO", "icon": "manage_search" },
+      { "id": "sub_yt_rank", "name": "YouTube Ranking", "icon": "smart_display" },
+      { "id": "sub_fb_engage", "name": "Facebook Engagement", "icon": "groups" },
+      { "id": "sub_viral_hooks", "name": "Viral Hooks", "icon": "bolt" }
+    ]
+  },
+  {
+    "id": "cat_pakistan",
+    "name": "Pakistani Context",
+    "nameUrdu": "پاکستانی مواد",
+    "icon": "flag",
+    "color": "#16A34A",
+    "description": "Urdu/Roman Urdu prompts, Daraz sellers, local freelancing, Pakistani audience",
+    "subcategories": [
+      { "id": "sub_urdu_prompts", "name": "Urdu Prompts", "icon": "translate" },
+      { "id": "sub_roman_urdu", "name": "Roman Urdu", "icon": "language" },
+      { "id": "sub_daraz", "name": "Daraz Sellers", "icon": "shopping_cart" },
+      { "id": "sub_local_freelance", "name": "Local Freelancing", "icon": "laptop" },
+      { "id": "sub_pk_marketing", "name": "Pakistani Marketing", "icon": "campaign" },
+      { "id": "sub_pk_students", "name": "Pakistani Students", "icon": "school" }
+    ]
+  }
+]
 
