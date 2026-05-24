@@ -1,6 +1,4 @@
 {
-  "data_version": 5,
-  "min_app_version": "1.0.0",
-  "release_date": "2025-05-01",
-  "message": "New TikTok prompts added!"
+  "latest_version": 1,
+  "required_update": false
 }
