@@ -1,13 +1,7 @@
 {
-  "data_version": 3,
-  "latest_data_version": 3,
+  "data_version": 0,
+  "latest_data_version": 0,
   "min_app_version": "1.0.0",
   "release_date": "2026-05-24",
-  "message": "New prompts added with improved categories and optimized structure.",
-  "change_log": [
-    "Added new AI tools prompts",
-    "Improved SEO and social media prompts",
-    "Optimized JSON structure for faster parsing"
-  ],
-  "update_type": "optional"
+  "message": "Initial version reset"
 }
